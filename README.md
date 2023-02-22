@@ -1,4 +1,4 @@
-Lista em RecyclerView
+
 Lista em RecyclerView foi meu segundo aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android.  
 
 ## :camera_flash: Screenshots
